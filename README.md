@@ -1,2 +1,2 @@
-# Udacity-Android-Nanodegree-Course-Projects
-This repository will contain all the projects developed as a part of the Udacity Android Nanodegree course
+# Udacity-Android-Nanodegree-Project0
+This repository contains 'Project 0' developed as a part of the Udacity Android Nanodegree course
